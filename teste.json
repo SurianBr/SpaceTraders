@@ -1,0 +1,25 @@
+{'data': {'symbol': 'X1-ZA40', 'sectorSymbol': 'X1', 'type': 'RED_STAR', 'x': 34, 'y': 40, 'waypoints': [
+            {'symbol': 'X1-ZA40-15970B', 'type': 'PLANET', 'x': 10, 'y': 0
+            },
+            {'symbol': 'X1-ZA40-69371X', 'type': 'MOON', 'x': 10, 'y': 0
+            },
+            {'symbol': 'X1-ZA40-97262C', 'type': 'MOON', 'x': 10, 'y': 0
+            },
+            {'symbol': 'X1-ZA40-11513D', 'type': 'MOON', 'x': 10, 'y': 0
+            },
+            {'symbol': 'X1-ZA40-34964E', 'type': 
+'PLANET', 'x': 5, 'y': 0
+            },
+            {'symbol': 'X1-ZA40-99095A', 'type': 'ASTEROID_FIELD', 'x': -9, 'y': 29
+            },
+            {'symbol': 'X1-ZA40-23636D', 'type': 'GAS_GIANT', 'x': -44, 'y': -22
+            },
+            {'symbol': 'X1-ZA40-68707C', 'type': 'ORBITAL_STATION', 'x': -44, 'y': -22
+            },
+            {'symbol': 'X1-ZA40-41138D', 'type': 'PLANET', 'x': 0, 'y': 70
+            },
+            {'symbol': 'X1-ZA40-28549E', 'type': 'JUMP_GATE', 'x': 2, 'y': 75
+            }
+        ], 'factions': []
+    }
+}

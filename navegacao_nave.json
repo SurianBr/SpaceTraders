@@ -1,0 +1,9 @@
+{'data': {'nav': {'systemSymbol': 'X1-ZA40', 'waypointSymbol': 'X1-ZA40-99095A', 'route': {'departure': {'symbol': 'X1-ZA40-68707C', 'type': 'ORBITAL_STATION', 'systemSymbol': 'X1-ZA40', 'x': -44, 'y': -22
+                }, 'destination': {'symbol': 'X1-ZA40-99095A', 'type': 'ASTEROID_FIELD', 'systemSymbol': 'X1-ZA40', 'x': -9, 'y': 29
+                }, 'arrival': '2023-05-19T00: 30: 34.871Z', 'departureTime': '2023-05-19T00: 25: 09.871Z'
+            }, 'status': 'IN_TRANSIT', 'flightMode': 'CRUISE'
+        }, 'fuel': {'current': 38, 'capacity': 100, 'consumed': {'amount': 62, 'timestamp': '2023-05-19T00: 25: 09.885Z'
+            }
+        }
+    }
+}
